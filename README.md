@@ -1,1 +1,1 @@
-![Safest Places to Visit](https://Jab726.GitHub.io/SafestPlacestoVisit.png)
+![Safest Places to visit](https://Jab726.GitHub.io/SafestPlacestovisit.png)
