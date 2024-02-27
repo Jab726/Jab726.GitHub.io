@@ -1,6 +1,6 @@
 Safest Places for Women to Visit as Solo Travelers
 
-![Safest Places to visit](https://Jab726.GitHub.io Safest Places to visit.png)
+![Safest Places to visit](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Safest%20Places%20to%20visit.png?raw=true)
 
 Source: https://usebounce.com/blog/womens-solo-travel-safety-2023
 
