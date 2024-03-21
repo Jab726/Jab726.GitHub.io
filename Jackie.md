@@ -8,4 +8,4 @@ My favorite ice cream flavor is chocolate, or Chunky Monkey from Ben & Jerrys. M
 
 theme: jekyll-theme-minimal
 
-![MusicChart] (https://Jab726.github.io/MusicChart.png)
+![Musicchart](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Musicchart.png)
