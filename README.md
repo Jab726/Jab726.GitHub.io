@@ -21,6 +21,8 @@ My timeline project is on the history of the Russian-Ukrainan War. Rather than d
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lgp2Q7rg70DkRL6OV5bm7IyOgv_ZJCdoxpgRhZKkxS8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+[link to data](https://www.usnews.com/news/best-countries/slideshows/a-timeline-of-the-russia-ukraine-conflict)
+
 # Chart Builder Project
 
 In this project, we were asked to design a chart using Chart Builder. I chose to do music streams, based on the billions of streams the top 5 artists in the world have acquired. My data came from Chartmasters.org, which is an offcial orginization that specializes in collecting music data. The top five artists worldwide are on the X axis, while the number of streams is displayed on the Y axis. 
