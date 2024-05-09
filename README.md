@@ -31,6 +31,8 @@ Link to data: https://chartmasters.org/most-streamed-artists-ever-on-spotify/
 
 ![Musicstreamchart](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Musicstreamchart.png)
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1b7satSt_hcVtQ8Vf8qbFHH5HSLJLuoQ&ehbc=2E312F" width="640" height="480"></iframe>
+
 <iframe src="https://www.google.com/maps/d/u/6/embed?mid=15COGwg1p_VFxbVoxVGD6NyXHoGXjhnA&ehbc=2E312F" width="640" height="480"></iframe>
 
 <iframe src="https://www.google.com/maps/d/u/6/embed?mid=1b7satSt_hcVtQ8Vf8qbFHH5HSLJLuoQ&ehbc=2E312F" width="640" height="480"></iframe>
