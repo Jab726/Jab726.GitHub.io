@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 
 ![Safest Places to visit](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Safest%20Places%20to%20visit.png?raw=true)
 
-Source: https://usebounce.com/blog/womens-solo-travel-safety-2023
+[Source](https://usebounce.com/blog/womens-solo-travel-safety-2023)
 
 The saftey index was calculated based on 6 factors of each country. The percentage of women who have experienced domestic violence, female homicide vicitms, percentage of women who feel safe walking home alone at night, percentage of women who agree domestic violence is justified, qaulity of laws on domestic violence, and the wage gender gap. The data was taken from OECD data, the World Bank, and the Global Gender Gap report. Bounce published this study. The key finding was that the safest destinatons for female solo travelers are in Europe. Some countries have factors that rank well, but do not make them the safest country due to other factors. In example of this in the study is Turkey, as it has some of the most strict domestic violence laws. However, other factors that went into the saftey index prevented Turkey from being one of the top 10 safe countries.
 # Timeline Project
@@ -25,7 +25,7 @@ My timeline project is on the history of the Russian-Ukrainan War. Rather than d
 
 In this project, we were asked to design a chart using Chart Builder. I chose to do music streams, based on the billions of streams the top 5 artists in the world have acquired. My data came from Chartmasters.org, which is an offcial orginization that specializes in collecting music data. The top five artists worldwide are on the X axis, while the number of streams is displayed on the Y axis. 
 
-Link to data: https://chartmasters.org/most-streamed-artists-ever-on-spotify/
+[Link to data](https://chartmasters.org/most-streamed-artists-ever-on-spotify/)
 
 ![Musicstreamchart](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Musicstreamchart.png)
 
