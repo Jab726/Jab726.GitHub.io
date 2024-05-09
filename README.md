@@ -8,7 +8,7 @@ My favorite ice cream flavor is chocolate, or Chunky Monkey from Ben & Jerrys. M
 
 theme: jekyll-theme-minimal
 
-Safest Places for Women to Visit as Solo Travelers
+#Safest Places for Women to Visit as Solo Travelers
 
 ![Safest Places to visit](https://github.com/Jab726/Jab726.GitHub.io/blob/main/Safest%20Places%20to%20visit.png?raw=true)
 
