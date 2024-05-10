@@ -6,6 +6,8 @@ My favorite ice cream flavor is chocolate, or Chunky Monkey from Ben & Jerrys. M
 [jackie]
 [my linkedin profile](https://www.linkedin.com/in/jacqueline-belkin-31b87026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+![image](https://media.licdn.com/dms/image/D4E03AQFCSHU2kV15dQ/profile-displayphoto-shrink_200_200/0/1708892593258?e=2147483647&v=beta&t=ag08Lf639hUUVO0oGzmduBCgb6_vcy11wq24h06dRj4) 
+
 theme: jekyll-theme-minimal
 
 # Safest Places for Women to Visit as Solo Travelers
