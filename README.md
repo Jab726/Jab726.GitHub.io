@@ -43,7 +43,7 @@ For this project, I decided to map the most popular cities based on the respecti
 
 # Tableau project 
 
-For my Tableau project, I used a map to express my data set. I found a data set that listed the number of homicides in each country, and then categorized them by gender. In my interactive visualization, I used red to signify men and red to signify women. The different sizes of each dot on the world map represents the amount of homocide a respective country has. The bigger the dot, the larger amount of homicides there are. I got my data from the offical U database webiste.
+For my Tableau project, I used a map to express my data set. I found a data set that listed the number of homicides in each country, and then categorized them by gender. In my interactive visualization, I used red to signify men and red to signify women. The different sizes of each dot on the world map represents the amount of homocide a respective country has. The bigger the dot, the larger amount of homicides there are. I got my data from the offical UN database webiste.
 
 [link to data](https://dataunodc.un.org/dp-intentional-homicide-victims)
 
